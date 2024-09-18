@@ -1,5 +1,5 @@
 # 🤖 Welcome to the AI Tools Audit Workshop! 🤖
-![aitools1](https://github.com/user-attachments/assets/59a8869a-6ad0-4774-9cf4-101e0dd59edf)
+![aitools1](./Images/ForgeIndustries.png)
 
 **Techforge** needs your expertise to identify AI tools that can benefit the company. This is where you'll compile and share your full audit report, collaborating as a team to deliver insights that will shape Techforge's future!
 
