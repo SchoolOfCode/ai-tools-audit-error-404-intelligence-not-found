@@ -23,6 +23,7 @@ It offers a variety of templates and themes to help users get started quickly. W
 - **Templates** give a wide array of starting points to get a designer going. Results can be reduced based on designer needs ('Tech' search etc.)
 ![aitools1](../Images/Templates.png)
 - **Auto-design tool** allows a user to give visual and text prompts based on desired outcome; **Start from screenshot** allows a user to use image of website or file of existing codebase to create the wireframe/prototype; **Prompt** uses UIZARD's tool based by allowing users to utilise key words & company ethos statements to construct the wireframes/prototypes. For example: tech, formal, modern, accessibility, welcoming, client-focused.
+
 ![aitools1](../Images/TextGenerator.png)
 ![aitools1](../Images/AI%20word%20prompt%20for%20site.png)
 ![aitools1](../Images/Image%20Input.png)
