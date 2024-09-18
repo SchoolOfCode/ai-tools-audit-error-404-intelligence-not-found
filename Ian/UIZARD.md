@@ -21,16 +21,16 @@ It offers a variety of templates and themes to help users get started quickly. W
 ![aitools1](../Images/Dashboard.png) *dashboard*
 ![aitools1](../Images/DashboardOptions.png) *dashboard options*
 - **Templates** give a wide array of starting points to get a designer going. Results can be reduced based on designer needs ('Tech' search etc.)
-![aitools1](../Images/Templates.png)
+![aitools1](../Images/Templates.png) *template examples*
 - **Auto-design tool** allows a user to give visual and text prompts based on desired outcome; **Start from screenshot** allows a user to use image of website or file of existing codebase to create the wireframe/prototype; **Prompt** uses UIZARD's tool based by allowing users to utilise key words & company ethos statements to construct the wireframes/prototypes. For example: tech, formal, modern, accessibility, welcoming, client-focused.
 
-![aitools1](../Images/TextGenerator.png)
-![aitools1](../Images/AI%20word%20prompt%20for%20site.png)
-![aitools1](../Images/Image%20Input.png)
+![aitools1](../Images/TextGenerator.png) *text generator*
+![aitools1](../Images/AI%20word%20prompt%20for%20site.png) *AI word prompt*
+![aitools1](../Images/Image%20Input.png) *Image input example*
 - **Hi-Fidelity Wireframes** are generated that allow uses to visualise the proposed site.  These wireframes also allow for links to be identified through the *links* option.  *Links* simulates how a user would interact with the pages through the generated buttons.  
-![aitools1](../Images/Interactive%20Prototype.png)
+![aitools1](../Images/Interactive%20Prototype.png) *prototypes*
 - **Interative Prototype Preview** allows for a user to demonstrate how the site would work, showcasing **UIZARD's** tools to potential and existing clients. This prototype can be edited there and then based on client feedback and designer changes. 
-![aitools1](../Images/InteractivePreview.png)
+![aitools1](../Images/InteractivePreview.png) *interative preview prototype*
 
 ## Opportunity:
 
