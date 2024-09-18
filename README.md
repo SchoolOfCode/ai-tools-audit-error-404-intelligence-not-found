@@ -1,8 +1,10 @@
 # 🤖 TechForge Industries - Digital Solutions For You 🤖
 ![aitools1](./Images/ForgeIndustries.png)
 
-## 
-**Techforge Industries AI Tools Report needs your expertise to identify AI tools that can benefit the company. This is where you'll compile and share your full audit report, collaborating as a team to deliver insights that will shape Techforge's future!
+## Techforge Industries AI Tools Report
+
+
+needs your expertise to identify AI tools that can benefit the company. This is where you'll compile and share your full audit report, collaborating as a team to deliver insights that will shape Techforge's future!
 
 ## 📋 Here's What to Do:
 
