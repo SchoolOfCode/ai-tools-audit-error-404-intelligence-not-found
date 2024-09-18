@@ -12,8 +12,24 @@ Additionally, UIZARD can also work from text descriptions or existing images and
 
 It offers a variety of templates and themes to help users get started quickly. Whether you're a beginner just starting out or a professional looking to speed up your workflow, UIZARD aims to make the design process faster and more accessible for everyone.
 
-## Example Usage:
+## Example UIZARD.io Usage:
 
+### Starting Point:
+- The landing page prompts to sign up through individual, company or educational status (free subscription only allows for minimal components to be created via React) 
+![aitools1](../Images/Landing%20Page.png) *landing page*
+- Once signed up, you'll be taken to a project dashboard page - here you can select whether to use AI to generate wireframes and prototypes, or whether you wish to use templates or create from scratch.
+![aitools1](../Images/Dashboard.png) *dashboard*
+![aitools1](../Images/DashboardOptions.png) *dashboard options*
+- **Templates** give a wide array of starting points to get a designer going. Results can be reduced based on designer needs ('Tech' search etc.)
+![aitools1](../Images/Templates.png)
+- **Auto-design tool** allows a user to give visual and text prompts based on desired outcome; **Start from screenshot** allows a user to use image of website or file of existing codebase to create the wireframe/prototype; **Prompt** uses UIZARD's tool based by allowing users to utilise key words & company ethos statements to construct the wireframes/prototypes. For example: tech, formal, modern, accessibility, welcoming, client-focused.
+![aitools1](../Images/TextGenerator.png)
+![aitools1](../Images/AI%20word%20prompt%20for%20site.png)
+![aitools1](../Images/Image%20Input.png)
+- **Hi-Fidelity Wireframes** are generated that allow uses to visualise the proposed site.  These wireframes also allow for links to be identified through the *links* option.  *Links* simulates how a user would interact with the pages through the generated buttons.  
+![aitools1](../Images/Interactive%20Prototype.png)
+- **Interative Prototype Preview** allows for a user to demonstrate how the site would work, showcasing **UIZARD's** tools to potential and existing clients. This prototype can be edited there and then based on client feedback and designer changes. 
+![aitools1](../Images/InteractivePreview.png)
 
 ## Opportunity:
 
@@ -31,7 +47,7 @@ It offers a variety of templates and themes to help users get started quickly. W
 - Possible limitations in design complexity or customization for highly specialised projects
 - Dependency on a third-party service for crucial design processes
 - Privacy concerns when uploading design concepts or client information
-- Potential for inconsistent AI performance, as noted in some user reviews on **G2.com**, **medium.com** and **getapp.com**
+- Potential for inconsistent AI performance, as noted in some (minimal number) user reviews on **G2.com**, **medium.com** and **getapp.com**
 
 
 ## Tangible Benefits:
